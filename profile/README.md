@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 행복한 코딩을 위한 사람들의 모임입니다!!
+
+
 <!--
 
 **Here are some ideas to get you started:**
